@@ -17,7 +17,7 @@ When the player stands at the door, the door disappears as it occured particle e
 <img src="./markdown/images/2_1.gif" width="550px" height="300px">
 To disappear the door, I used Set Actor Location method.<br>
 Also to occur particle effect, I used Spawn Emitter at Location method in level blueprint.<br>
-<a href="https://docs.unrealengine.com/en-US/BlueprintAPI/Effects/Components/ParticleSystem/SpawnEmitteratLocation/index.html" 
+<a href="https://docs.unrealengine.com/en-US/BlueprintAPI/Effects/Components/ParticleSystem/SpawnEmitteratLocation/index.html" target="_blank" 
 >Spawn Emitter at Location</a>
 
-<a href="https://docs.unrealengine.com/en-US/API/Runtime/Engine/GameFramework/AActor/SetActorLocation/index.html">Set Actor Location</a>
+<a href="https://docs.unrealengine.com/en-US/API/Runtime/Engine/GameFramework/AActor/SetActorLocation/index.html" target="_blank">Set Actor Location</a>
