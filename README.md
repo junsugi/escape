@@ -14,7 +14,7 @@ And I found shortcut key End. End key exactly can place objects on floor.<br><br
 2020 / 02 / 27<br>
 Following yesterday, I studied to make a door that applied particle effects.<br>
 When the player stands at the door, the door disappears as it occured particle effect.<br><br>
-<img src="./markdown/images/2_1.gif" width="550px" height="300px"><br>
+<img src="./markdown/images/2_1.gif" width="550px" height="300px">
 To disappear the door, I used Set Actor Location method.<br>
 Also to occur particle effect, I used Spawn Emitter at Location method in level blueprint.
 <a href="https://docs.unrealengine.com/en-US/BlueprintAPI/Effects/Components/ParticleSystem/SpawnEmitteratLocation/index.html" 
